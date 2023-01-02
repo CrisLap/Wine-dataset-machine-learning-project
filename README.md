@@ -7,5 +7,5 @@ Notes:
 I suggest to open the notebook with nbviewer at this link: <br>
 https://nbviewer.org/github/CrisLap/Wine-dataset-machine-learning-project/blob/main/Wine%20dataset%20machine%20learning%20project.ipynb <br>
 
-Finally I create a web app with streamlit and an executable file( .py). With this app the users can fill different values for each features and the algotihm predict the class label <br>
+Finally I create a web app with streamlit and an executable file( .py). With this app the users can fill different values for each features and the algorithm ( in this case I use another model) predict the class label <br>
 You can reach the application here: https://crislap-wine-dataset-machine-lear-wineclasspredictionapp-vr6owl.streamlit.app  
